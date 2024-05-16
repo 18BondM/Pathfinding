@@ -79,8 +79,8 @@
             // 
             fileToolStripMenuItem2.DropDownItems.AddRange(new ToolStripItem[] { openToolStripMenuItem, exitToolStripMenuItem });
             fileToolStripMenuItem2.Name = "fileToolStripMenuItem2";
-            fileToolStripMenuItem2.Size = new Size(43, 20);
-            fileToolStripMenuItem2.Text = "$File";
+            fileToolStripMenuItem2.Size = new Size(37, 20);
+            fileToolStripMenuItem2.Text = "&File";
             // 
             // openToolStripMenuItem
             // 
